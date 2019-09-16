@@ -25,7 +25,11 @@
     },
     "autoload": {
         "psr-0": {
-            "VDB\\Spider": "src/",
+            "VDB\\Spider": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-0": {
             "VDB\\Spider\\Tests": "tests/"
         }
     }
